@@ -399,6 +399,358 @@ const gameArr = [
         coverImage: "",
         id: 50
     },
+    {
+        title: "Miitopia",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 51
+    },
+    {
+        title: "Minecraft Dungeons: Ultimate Edition",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 52
+    },
+    {
+        title: "New Pokemon Snap",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 53
+    },
+    {
+        title: "New Super Mario Bros. U Deluxe",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 54
+    },
+    {
+        title: "Nintendo Labo: Toycon 01 Variety Kit",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 55
+    },
+    {
+        title: "Nintendo Labo: Toycon 02 Robot Kit",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 56
+    },
+    {
+        title: "Nintendo Labo: Toycon 03 Vehicle Kit",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 57
+    },
+    {
+        title: "Nintendo Labo: Toycon 04 VR Kit",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 58
+    },
+    {
+        title: "Nintendo Switch Sports",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 59
+    },
+    {
+        title: "Octopath Traveler",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 60
+    },
+    {
+        title: "Octopath Traveler II",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 61
+    },
+    {
+        title: "Paper Mario: The Origami King",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 62
+    },
+    {
+        title: "Pikmin 3 Deluxe",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 63
+    },
+    {
+        title: "Pikmin 4",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 64
+    },
+    {
+        title: "Pokemon Brilliant Diamond",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 65
+    },
+    {
+        title: "Pokemon Legends: Arceus",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 66
+    },
+    {
+        title: "Pokemon Mystery Dungeon: Rescue Team DX",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 67
+    },
+    {
+        title: "Pokemon Scarlet",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 68
+    },
+    {
+        title: "Pokemon Shield",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 69
+    },
+    {
+        title: "Pokemon Shining Pearl",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 70
+    },
+    {
+        title: "Pokemon Sword",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 71
+    },
+    {
+        title: "Pokken DX",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 72
+    },
+    {
+        title: "Pokemon Violet",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 73
+    },
+    {
+        title: "Pokemon: Let's Go, Eevee!",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 74
+    },
+    {
+        title: "Pokemon: Let's Go, Pikachu!",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 75
+    },
+    {
+        title: "RingFit Adventure",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 76
+    },
+    {
+        title: "Snipperclips Plus: Cut It Out, Together!",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 77
+    },
+    {
+        title: "Splatoon 2",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 78
+    },
+    {
+        title: "Splatoon 3",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 79
+    },
+    {
+        title: "Super Mario 3D All-Stars",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 80
+    },
+    {
+        title: "Super Mario 3D World + Bowser's Fury",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 81
+    },
+    {
+        title: "Super Mario Maker 2",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 82
+    },
+    {
+        title: "Super Mario Odyssey",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 83
+    },
+    {
+        title: "Super Smash Bros. Ultimate",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 84
+    },
+    {
+        title: "Sushi Striker: The Way of Sushido",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 85
+    },
+    {
+        title: "Tetris 99",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 86
+    },
+    {
+        title: "Tokyo Mirage Sessions #FE Encore",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 87
+    },
+    {
+        title: "WarioWare: Get It Together!",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 88
+    },
+    {
+        title: "The World Ends With You: Final Remix",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 89
+    },
+    {
+        title: "Xenoblade Chronicles 2",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 90
+    },
+    {
+        title: "Xenoblade Chronicles 2: Torna",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 91
+    },
+    {
+        title: "Xenoblade Chronicles 3",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 92
+    },
+    {
+        title: "Xenoblade Chronicles: Definitive Edition",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 93
+    },
+    {
+        title: "Yoshi's Crafted World",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 94
+    },
     // {
     //     title: "",
     //     publisher: "Nintendo",

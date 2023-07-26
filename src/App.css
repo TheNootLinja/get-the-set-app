@@ -42,6 +42,9 @@
   height: 300px;
   border: 1px solid rgba(0,0,0,.4);
 }
+.collected {
+  opacity: .2;
+}
 
 @keyframes App-logo-spin {
   from {

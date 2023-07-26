@@ -751,6 +751,14 @@ const gameArr = [
         coverImage: "",
         id: 94
     },
+    {
+        title: "Everybody 1-2 Switch",
+        publisher: "Nintendo",
+        releaseDate: "",
+        genre: "",
+        coverImage: "",
+        id: 95
+    },
     // {
     //     title: "",
     //     publisher: "Nintendo",
